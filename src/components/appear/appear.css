@@ -1,0 +1,58 @@
+
+.section__apper{
+	background-color: black;
+	color: rgb(160, 160, 160);
+	padding: 100px 100px 0;
+}
+h2{
+	color: tomato;
+	font-family: cursive;
+	font-size: 42px;
+}
+.apper__block p{
+	width: 320px;
+	margin: 30px auto;
+}
+.apper__box{
+	border: 1px solid;
+	margin: 50px 300px;
+	padding: 70px 200px;
+}
+.apper__box h3{
+	font-size: 22px;
+	line-height: 40px;
+	margin-bottom: 70px;
+}
+button{
+	color: tomato;
+	background-color: transparent;
+	border-radius: 50px;
+	border: 1px solid tomato;
+	padding: 10px 65px;
+}
+
+.apper__contact{
+	background-color: rgba(24, 16, 46, 0.924);
+	margin-top: 250px;
+	padding: 150px 620px;
+	position: relative;
+	/* overflow: hidden; */
+}
+.apper__contact p{
+	margin: 50px 0;
+}
+.apper__contact img{
+	position: absolute;
+	border-radius: 50%;
+	top: -90px;
+	left: 730px;
+}
+.apper__contact svg{
+	position: absolute;
+	color: tomato;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	top: -3px;
+	left: 1250px;
+}

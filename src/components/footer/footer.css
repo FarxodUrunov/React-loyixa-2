@@ -1,0 +1,10 @@
+.footer__block{
+	margin-bottom: 50px;
+	color: rgb(65, 63, 63);
+}
+.footer__block a{
+	color: rgb(65, 63, 63);
+}
+.footer__block div a{
+	margin: 0 5px;
+}

@@ -1,0 +1,53 @@
+
+.section__praise{
+	background-color: rgba(24, 16, 46, 0.924);
+	padding: 100px 200px;
+	position: relative;
+	overflow: hidden;
+}
+.section__praise svg{
+	position: absolute;
+	color: tomato;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	top: -5px;
+	left: 1500px;
+}
+.praise__box{
+	margin-top: 150px;
+}
+.praise__block h2{
+	color: tomato;
+	font-size: 46px;
+	font-family: cursive;
+}
+.praise__box span{
+	display: inline-block;
+	font-size: 92px;
+	transform: rotate(180deg);
+	color: tomato;
+	line-height: 0;
+	font-family: cursive;
+}
+.praise__box p{
+	color: rgb(165, 164, 164);
+	width: 300px;
+	margin: 0 auto;
+}
+.praise__box .praise__tomato{
+	color: tomato;
+	width: 180px;
+	margin-top: 50px;
+}
+.praise__box b{
+	display: inline-block;
+	width: 120px;
+	height: 1px;
+	background-color: rgb(145, 145, 145);
+	/* margin-top: 40px; */
+}
+.praise__title{
+	margin-bottom: 50px;
+	height: 300px;
+}

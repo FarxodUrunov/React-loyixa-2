@@ -22,10 +22,7 @@ const Swan = () => {
             <button type="button">ibooks</button>
          </div>
          <div className="swan__img">
-            <img
-               src="https://static.wixstatic.com/media/ad420a_ac6bbfd46dbe4c83a234221d29d67791~mv2.png/v1/fill/w_385,h_543,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202021-02-07%20at%209_24_47.webp"
-               alt="..."
-            />
+            <img src="img/f2.png" alt="..." />
          </div>
       </div>
    );

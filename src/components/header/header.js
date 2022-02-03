@@ -5,7 +5,7 @@ const Header = () => {
       <header>
          <div className="img-1">
             <div className="box">
-               <a className="aa" href="https://www.wix.com/">
+               {/* <a className="aa" href="https://www.wix.com/">
                   WiX
                </a>
 
@@ -23,7 +23,7 @@ const Header = () => {
                <a className="a" href="https://www.wix.com/">
                   Подробнее
                </a>
-               <button className="btn">Редактировать</button>
+               <button className="btn">Редактировать</button> */}
             </div>
          </div>
       </header>

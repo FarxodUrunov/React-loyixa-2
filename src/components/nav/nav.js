@@ -8,19 +8,19 @@ const Nav = () => {
                <h1>K. Griffith</h1>
                <ul>
                   <li>
-                     <a href="#">APPEARANCES</a>
+                     <a href="https://getbootstrap.com/docs/4.0/examples/pricing/">APPEARANCES</a>
                   </li>
                   <li>
-                     <a href="#">BOOKS</a>
+                     <a href="https://getbootstrap.com/docs/4.0/examples/pricing/">BOOKS</a>
                   </li>
                   <li>
-                     <a href="#">NEWS</a>
+                     <a href="https://getbootstrap.com/docs/4.0/examples/pricing/">NEWS</a>
                   </li>
                   <li>
-                     <a href="#">ABOUT</a>
+                     <a href="https://getbootstrap.com/docs/4.0/examples/pricing/">ABOUT</a>
                   </li>
                   <li>
-                     <a href="#">CONTACT</a>
+                     <a href="https://getbootstrap.com/docs/4.0/examples/pricing/">CONTACT</a>
                   </li>
                </ul>
             </div>
